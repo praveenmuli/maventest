@@ -10,3 +10,10 @@ jar-Java Archive
 .class: Which can be executable
 .jar: group of .class files
 .war: it has both frontend and backend code.
+
+mvn compile:- to compile the source code
+mvn test:- to test the code
+mvn package:- to create the new artifact(Project directory)
+mvn install:- to create artifact(maven home dir .m2)
+mvn clean package:- to perform entire goals
+mvn clean:- To delete the artifact:- to delete artifact
