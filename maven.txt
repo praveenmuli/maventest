@@ -1,0 +1,12 @@
+Artifatcs:- is a final product application.
+pom.xml:(Project Object Model) file- It will contains all the instructions for creating the projects
+Maven is abuild tool.
+It is used to work with Java based projects.
+It is used to create the artifatcs such as ear, war and jar files.
+ear-Enterprise Archive
+War-WebArchive
+jar-Java Archive
+
+.class: Which can be executable
+.jar: group of .class files
+.war: it has both frontend and backend code.
